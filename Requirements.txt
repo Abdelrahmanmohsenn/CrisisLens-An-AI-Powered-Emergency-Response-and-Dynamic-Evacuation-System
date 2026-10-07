@@ -1,0 +1,13 @@
+streamlit
+torch
+transformers
+bitsandbytes
+langchain
+langchain-community
+langchain-classic
+faiss-cpu
+sentence-transformers
+networkx
+matplotlib
+Pillow
+huggingface-hub
